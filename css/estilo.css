@@ -2,8 +2,7 @@
 
 body {
     background: #f4f2ec url(../imagens/fundo.png) repeat-x;
-    font: 12px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 12px 'Lucida Grande', 'Lucida Sans Unicode', Arial, sans-serif;
 }
 
 #container {
@@ -24,6 +23,10 @@ a:hover {
 
 
 /* Logo */
+
+#logo h1 {
+    float: left;
+}
 
 #logo a {
     width: 248px;
