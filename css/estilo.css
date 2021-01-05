@@ -141,3 +141,15 @@ fieldset {
 legend {
     display: none;
 }
+
+
+/* Area de Postagem */
+
+#postagem {
+    margin: 10px 0;
+    border: 1px solid red;
+}
+
+#postagem article {
+    flex: auto;
+}
